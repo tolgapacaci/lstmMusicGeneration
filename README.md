@@ -1,0 +1,1 @@
+This is a custom LSTM model for basic music generation, in this case for classical music. This project is supposed to work on Google Colab environment. You can use MAESTRO or Classical Midi Dataset from Kaggle for training. Future improvements coming will be uploaded here.
